@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/jekyll/","noteIcon":""}
+{"dg-publish":true,"permalink":"/jekyll/"}
 ---
 
