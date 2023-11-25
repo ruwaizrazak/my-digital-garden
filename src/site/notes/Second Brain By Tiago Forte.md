@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain-by-tiago-forte/"}
+{"dg-publish":true,"permalink":"/Second Brain By Tiago Forte/"}
 ---
 
 Recommends to use a folder structure as 
