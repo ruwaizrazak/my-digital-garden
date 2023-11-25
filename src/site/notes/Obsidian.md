@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/","noteIcon":""}
+{"dg-publish":true,"permalink":"/obsidian/"}
 ---
 
