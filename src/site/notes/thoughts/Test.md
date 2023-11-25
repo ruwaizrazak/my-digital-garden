@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/Test/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/thoughts/Test/"}
 ---
 
 resintg a folder
