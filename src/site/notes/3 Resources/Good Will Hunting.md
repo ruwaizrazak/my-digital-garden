@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/good-will-hunting/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/3-resources/good-will-hunting/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
