@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/being-a-quant-yoda/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/being-a-quant-yoda/","noteIcon":""}
 ---
 
 #datadump #design #work #fromBear
