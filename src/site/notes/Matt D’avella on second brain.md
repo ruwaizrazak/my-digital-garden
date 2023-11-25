@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matt-d-avella-on-second-brain/"}
+{"dg-publish":true,"permalink":"/Matt D’avella on second brain/"}
 ---
 
 #resources
