@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Building a second brain/","tags":["gardenEntry"]}
 ---
 
+# Building a second brain
+
 Second Brain, I've been hearing this term for a while and I thought of implementing the second brain mainly cause of two reasons.
 1. I will be able to remember more things systematically
 2. Im scared of being infected by Alzheimers
