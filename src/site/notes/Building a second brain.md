@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/building-a-second-brain/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Building a second brain/","tags":["gardenEntry"]}
 ---
 
 Second Brain, I've been hearing this term for a while and I thought of implementing the second brain mainly cause of two reasons.
