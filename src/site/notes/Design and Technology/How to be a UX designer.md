@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Design and Technology/How to be a UX designer/","noteIcon":"","created":"2023-12-08T13:25:39.995+05:30","updated":"2023-12-08T13:25:53.897+05:30"}
+{"dg-publish":true,"permalink":"/Design and Technology/How to be a UX designer/","noteIcon":"2","created":"2023-12-08T13:25:39.995+05:30","updated":"2023-12-08T13:25:53.897+05:30"}
 ---
 
 
