@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Second Brain By Tiago Forte/","noteIcon":"","created":"2023-05-16T16:01:56.000+05:30","updated":"2023-11-25T12:11:25.122+05:30"}
+{"dg-publish":true,"permalink":"/Readings/Second Brain By Tiago Forte/","noteIcon":"2","created":"2023-05-16T16:01:56.000+05:30","updated":"2023-11-25T12:11:25.122+05:30"}
 ---
 
 Recommends to use a folder structure as 
