@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Design and Technology/Design and Data/","noteIcon":"","created":"2023-12-08T13:24:48.781+05:30","updated":"2023-12-08T13:25:05.116+05:30"}
+{"dg-publish":true,"permalink":"/Design and Technology/Design and Data/","noteIcon":"2","created":"2023-12-08T13:24:48.781+05:30","updated":"2023-12-08T13:25:05.116+05:30"}
 ---
 
 
