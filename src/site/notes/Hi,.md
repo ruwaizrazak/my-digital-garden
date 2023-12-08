@@ -20,5 +20,5 @@ Broadly, This garden contains converse about Design, Humans and technology. Ther
 
 🫤**Wait! What?** Its okay to be confused. I got you. I was confused as hell when I saw knowledge aggregator (or digital garden) for the first time. If you dont have a clue of whats happening, you can check the [[About\|About]]  page which would give you more understanding on what this is.
 
-
+**One last thing, Why dont you just write in Facebook?** oh, I can talk about it, [[Why I quit facebook?\|Why I quit facebook?]]
 
