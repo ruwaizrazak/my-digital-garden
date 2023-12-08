@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hi,/","tags":["gardenEntry"],"noteIcon":"","created":"2023-12-08T12:20:54.497+05:30","updated":"2023-12-08T13:04:00.648+05:30"}
+{"dg-publish":true,"permalink":"/Hi,/","title":"Soliloquy","pinned":true,"tags":["gardenEntry"],"noteIcon":"4","created":"2023-12-08T12:20:54.497+05:30","updated":"2023-12-08T14:02:35.778+05:30"}
 ---
 
 
