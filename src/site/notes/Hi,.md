@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Hi,/","title":"Introduction","pinned":true,"tags":["gardenEntry"],"noteIcon":"4","created":"2023-12-08T12:20:54.497+05:30","updated":"2023-12-08T14:06:26.109+05:30"}
+{"dg-publish":true,"permalink":"/Hi,/","title":"Introduction","pinned":true,"tags":["gardenEntry"],"noteIcon":"4","created":"2023-12-08T12:20:54.497+05:30","updated":"2023-12-08T14:09:50.685+05:30"}
 ---
 
+![Untitled_Artwork.png](/img/user/Attachments/Untitled_Artwork.png)
 
-Welcome to my digital garden.
+**Welcome** to my digital garden.
 
 ❓**What is this?** : A repository that I've been wanting to build to log whatever I've absorbed through out my life. This could be the snippet of articles, videos and books that I've come across along with raw or slightly processed thoughts. 
 
