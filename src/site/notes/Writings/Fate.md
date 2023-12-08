@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Writings/Fate/","noteIcon":"","created":"2023-12-08T13:14:17.198+05:30","updated":"2023-12-08T13:14:31.494+05:30"}
+{"dg-publish":true,"permalink":"/Writings/Fate/","noteIcon":"2","created":"2023-12-08T13:14:17.198+05:30","updated":"2023-12-08T13:14:31.494+05:30"}
 ---
 
 
