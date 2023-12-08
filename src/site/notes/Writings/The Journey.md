@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Writings/The Journey/","noteIcon":"","created":"2023-12-08T13:16:30.651+05:30","updated":"2023-12-08T13:17:14.159+05:30"}
+{"dg-publish":true,"permalink":"/Writings/The Journey/","noteIcon":"2","created":"2023-12-08T13:16:30.651+05:30","updated":"2023-12-08T13:17:14.159+05:30"}
 ---
 
 Regardless of your agreement, we all are passengers, who got into the train named life. Running behind things which we wants to own, satisfying the basic necessities of yourself from the available options around you, and spectating the wonderful sites outside via the windows.
