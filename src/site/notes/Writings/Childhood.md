@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Writings/Childhood/","noteIcon":"","created":"2023-12-08T13:06:59.550+05:30","updated":"2023-12-08T13:07:43.108+05:30"}
+{"dg-publish":true,"permalink":"/Writings/Childhood/","noteIcon":"2","created":"2023-12-08T13:06:59.550+05:30","updated":"2023-12-08T13:07:43.108+05:30"}
 ---
 
 “I spent my whole childhood wishing I were older and now I'm spending my adulthood wishing I were younger”.
