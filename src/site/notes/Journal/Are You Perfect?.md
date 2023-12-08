@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Journal/Are You Perfect?/","noteIcon":"","created":"2023-12-08T13:10:04.601+05:30","updated":"2023-12-08T13:11:09.108+05:30"}
+{"dg-publish":true,"permalink":"/Journal/Are You Perfect?/","noteIcon":"2","created":"2023-12-08T13:10:04.601+05:30","updated":"2023-12-08T13:11:09.108+05:30"}
 ---
 
 
