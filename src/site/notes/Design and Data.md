@@ -1,0 +1,57 @@
+---
+{"dg-publish":true,"permalink":"/Design and Data/"}
+---
+
+
+While I was working with multiple startup companies during the earlier stage of my career, I have heard statements like : 
+
+- "I know my users"
+- "We don't use data to design, It is for stakeholders"
+- "Lets revamp the entire design of the product"
+
+But as I got deeper into the career I realised that design can help a lot in the process of designing a great product.
+
+## How would data play a crucial role in design?
+
+Data helps in understanding the depth of the problem. Without proper user insights, everything is an assumption. Data is an important component which is required to find out the user preferences. 
+
+Even though, designers are not users, by studying your targeted audiences through researches and analysis we can get closer to the user base. To succeed, we have to understand how users are interacting with the product and what are the features they are not interacting with, or finding hard to interact with. 
+
+> By having access to a large volume of processed data, you will be able to understand what exactly you need for your product to make it appealing and functional.
+
+Also, the data you acquire from A/b tests, surveys, consumer research, concept tests would help you to gather valuable data, which will help you to get through the design process. With quality insights and understanding about your user's behaviour, you will be able to deliver better experience to your users and thus stand out from the crowd.
+
+> Quality insights and understanding about user behaviour would help you to deliver better experience. 
+
+With the help of the data you've collected you will be able to : 
+- Understand whether you are in the proper direction.
+- Recognize future opportunities or possible problematic areas.
+- Understand user trends and patters
+- Improvise your design.
+
+As you are equipped with quantitative and qualitative data, you can be a better influence in making a decision. With this data, you will be able to advocate for the better design that would solve the existing painpoints while making the product more functional and appealing.
+
+
+## Is quantitative data is the only ingredient we need for understanding the problem?
+
+> Data-driven design is about using information gleaned from both quantitative and qualitative sources to inform how you make decisions for a set of users - Invision
+
+On the contrary, if we just look into the numbers, we might not be able to understand what's going wrong. While data would be able to give you the numbers, data is only as good as the questions you ask. 
+
+For example, when you look into data, you might be able to see that there is a user churn. But quantitative data alone might not be able to answer why it's happening.
+
+To understand the why part, we need to look at the qualitative analysis that we gathered from our studies. Let that be focus groups, surveys, playtests, concept tests, or even App Store reviews. 
+
+For eg: If you notice that there is a churn between step A and step B, the quantitative part can tell you how much that is. But the qualitative part will be able to tell you why it's happening. 
+
+But at this part, we also need to keep in mind that sometimes users don't act as they say. I often caught up in a situation in which users say *"I really like that feature"* but when we check the numbers, its really low. At this stage, things get bit complicated as users are saying they like a certain feature but they are not engaging with it. During these scenarios, as a designer we have to check it with other sources of data and to use designer instincts.
+
+
+## How to get started?
+You do not have to be proficient in data analytics or does some SQL queries. While those skills are handy, its always better to have a look at different sources of data and to understand the depth of the problem before jumping into it.
+
+Analyse your current users, there are lots of tools that would help you in this process. Look at your site's analytics, behaviour flow and engagement to understand what your users are doing. Once you get hold of this, dive deeper into your audience analytics and demographic to understand your user personas
+
+A/b testing would help you to isolate specific variables of your user experience which would then help you to find the most effective options. Setting up milestones and experiment with smaller changes rather than throwing it all to the users would help you in pursuit of the great design.
+
+#design #tech 
