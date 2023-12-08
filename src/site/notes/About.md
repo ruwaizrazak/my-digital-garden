@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/About/","noteIcon":"","created":"2023-12-08T12:34:23.733+05:30","updated":"2023-12-08T12:57:05.478+05:30"}
+{"dg-publish":true,"permalink":"/About/","noteIcon":"2","created":"2023-12-08T12:34:23.733+05:30","updated":"2023-12-08T12:57:05.478+05:30"}
 ---
 
 ## Why?
