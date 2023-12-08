@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Mismatch by Kat Holmes/","noteIcon":"","created":"2023-12-08T13:23:39.744+05:30","updated":"2023-12-08T13:24:07.161+05:30"}
+{"dg-publish":true,"permalink":"/Readings/Mismatch by Kat Holmes/","noteIcon":"2","created":"2023-12-08T13:23:39.744+05:30","updated":"2023-12-08T13:24:07.161+05:30"}
 ---
 
 
