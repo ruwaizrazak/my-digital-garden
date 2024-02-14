@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Writings/Why I quit facebook?/","noteIcon":"2","created":"2023-12-08T12:39:05.024+05:30","updated":"2023-12-08T12:40:05.907+05:30"}
+{"dg-publish":true,"permalink":"/Writings/Why I quit facebook?/","noteIcon":"2","created":"2023-12-08T11:09:05.000+04:00","updated":"2023-12-08T11:10:05.000+04:00"}
 ---
 
 
