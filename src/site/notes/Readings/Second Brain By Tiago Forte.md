@@ -14,6 +14,6 @@ Tiago also talks about Progressive Summarization. The structure of the notes is 
 
 > start with something until it breaks. Start simple and as you go along, if it breaks, move to a powerful system.
 
-That being said, why did I moved to [[Journal/Obsidian\|Obsidian]]? 
+That being said, why did I moved to [[Obsidian\|Obsidian]]? 
 
 #SecondBrain #book
