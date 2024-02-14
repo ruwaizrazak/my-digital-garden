@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Journal/Incentives, good or bad?/","noteIcon":"2","created":"2023-12-08T13:20:08.745+05:30","updated":"2023-12-08T13:20:27.307+05:30"}
+{"dg-publish":true,"permalink":"/Journal/Incentives, good or bad?/","noteIcon":"2","created":"2023-12-08T11:50:08.000+04:00","updated":"2023-12-08T11:50:27.000+04:00"}
 ---
 
 
