@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Movies/Movies that amazed me/","noteIcon":"2","created":"2023-05-16T21:34:21.000+05:30","updated":"2023-12-08T13:08:28.094+05:30"}
+{"dg-publish":true,"permalink":"/Movies/Movies that amazed me/","noteIcon":"2","created":"2023-05-16T20:04:21.000+04:00","updated":"2023-12-08T11:38:28.000+04:00"}
 ---
 
 
