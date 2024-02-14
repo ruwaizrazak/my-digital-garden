@@ -10,7 +10,7 @@ He started with Blogspot, Wordpress, self hosted wordpress, [[Design and Technol
 But then, He stumbled upon something similar that caters to his needs and it was excellent. Something simple, straight and hell, cross platform too, something thats exactly this.
 
 ## Site info
-- This site is made using [[Journal/Obsidian\|Obsidian]] and https://dg-docs.ole.dev/. 
+- This site is made using [[Obsidian\|Obsidian]] and https://dg-docs.ole.dev/. 
 - The theming hasnt done yet, which I need to do 🤓
 
 ## Navigation
