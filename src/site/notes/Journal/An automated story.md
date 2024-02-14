@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Journal/An automated story/","noteIcon":"2","created":"2023-12-08T13:21:37.114+05:30","updated":"2023-12-08T13:22:07.916+05:30"}
+{"dg-publish":true,"permalink":"/Journal/An automated story/","noteIcon":"2","created":"2023-12-08T11:51:37.000+04:00","updated":"2023-12-08T11:52:07.000+04:00"}
 ---
 
 
