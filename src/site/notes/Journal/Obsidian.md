@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Journal/Obsidian/","noteIcon":"2","created":"2023-05-15T21:53:48.000+05:30","updated":"2023-11-25T11:46:58.411+05:30"}
+{"dg-publish":true,"permalink":"/Journal/Obsidian/","noteIcon":"2","created":"2023-05-15T20:23:48.000+04:00","updated":"2023-11-25T10:16:58.000+04:00"}
 ---
 
