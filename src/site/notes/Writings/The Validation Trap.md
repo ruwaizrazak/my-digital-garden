@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Writings/The Validation Trap/","noteIcon":"2","created":"2023-05-17T04:55:58.000+05:30","updated":"2023-12-08T13:06:15.425+05:30"}
+{"dg-publish":true,"permalink":"/Writings/The Validation Trap/","noteIcon":"2","created":"2023-05-17T03:25:58.000+04:00","updated":"2023-12-08T11:36:15.000+04:00"}
 ---
 
 
