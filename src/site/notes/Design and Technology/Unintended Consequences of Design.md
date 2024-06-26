@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Design and Technology/Unintended Consequences of Design/","noteIcon":"2","created":"2023-12-08T11:52:44.000+04:00","updated":"2023-12-08T11:53:04.000+04:00"}
+{"dg-publish":true,"permalink":"/Design and Technology/Unintended Consequences of Design/","noteIcon":"2","created":"2023-12-08T13:22:44.000+05:30","updated":"2023-12-08T13:23:04.000+05:30"}
 ---
 
 How many times in your life have you wondered seeing the alternative possibilities of a particular product? We, humans are creative, we tend to find opportunities from every single thing that come across in our lives. Be it using Instagram for showcasing your merchandise, or checking internet availability by typing "google.com" in your browser.
