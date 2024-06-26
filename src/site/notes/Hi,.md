@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hi,/","title":"Introduction","pinned":true,"tags":["gardenEntry"],"noteIcon":"4","created":"2023-12-08T10:50:54.000+04:00","updated":"2024-02-14T20:55:38.984+04:00"}
+{"dg-publish":true,"permalink":"/Hi,/","title":"Introduction","pinned":true,"tags":["gardenEntry"],"noteIcon":"4","created":"2023-12-08T12:20:54.000+05:30","updated":"2024-06-26T11:31:20.567+05:30"}
 ---
 
 ![Untitled_Artwork.png](/img/user/Attachments/Untitled_Artwork.png)
