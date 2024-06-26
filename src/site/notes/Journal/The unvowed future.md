@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Journal/The unvowed future/","noteIcon":"2","created":"2023-12-08T11:43:30.000+04:00","updated":"2023-12-08T11:43:59.000+04:00"}
+{"dg-publish":true,"permalink":"/Journal/The unvowed future/","noteIcon":"2","created":"2023-12-08T13:13:30.000+05:30","updated":"2023-12-08T13:13:59.000+05:30"}
 ---
 
 Most of us read newspapers every day. for some, its a ritual, and for the rest its once in a blue moon. However, both these categories gets used to the news which brings the death of someone who we once knew, who were something to us.
