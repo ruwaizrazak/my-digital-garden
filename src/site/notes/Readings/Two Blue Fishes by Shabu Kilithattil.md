@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Two Blue Fishes by Shabu Kilithattil/","noteIcon":"2","created":"2024-01-08T06:56:41.000+04:00","updated":"2024-01-08T07:09:07.000+04:00"}
+{"dg-publish":true,"permalink":"/Readings/Two Blue Fishes by Shabu Kilithattil/","noteIcon":"2","created":"2024-01-08T08:26:41.000+05:30","updated":"2024-01-08T08:39:07.000+05:30"}
 ---
 
 (Randu Neela Matsyangal)
