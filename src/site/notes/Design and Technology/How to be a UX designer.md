@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Design and Technology/How to be a UX designer/","noteIcon":"2","created":"2023-12-08T11:55:39.000+04:00","updated":"2023-12-08T11:55:53.000+04:00"}
+{"dg-publish":true,"permalink":"/Design and Technology/How to be a UX designer/","noteIcon":"2","created":"2023-12-08T13:25:39.000+05:30","updated":"2024-02-21T20:11:43.558+05:30"}
 ---
 
 
@@ -16,9 +16,6 @@ During my first stint as a designer, I've been once told that, "Hey, we are goin
 > Jazz your product with all the tech that you can find, but if your user can't understand it, they are not gonna use it. 
 
 User experience is basically the whole product experience, how the button clicks feel, How it looks, customer service and the whole big games. I recently read "Vandalisation of UX" (https://medium.com/spotless-says/the-vandalisation-of-ux-f38058d9a497)  in a medium publication called Spotless says and  they actually used the following picture to explain UX, which sums everything. 
-
-
-/0*uTCnGzm1A7r6IJ_1.png
 
 ##  How to be a user experience designer?
 
