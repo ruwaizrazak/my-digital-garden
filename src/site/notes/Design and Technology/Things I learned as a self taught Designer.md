@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Design and Technology/Things I learned as a self taught Designer/","noteIcon":"2","created":"2023-05-17T03:24:33.000+04:00","updated":"2023-12-08T11:35:46.000+04:00"}
+{"dg-publish":true,"permalink":"/Design and Technology/Things I learned as a self taught Designer/","noteIcon":"2","created":"2023-05-17T04:54:33.000+05:30","updated":"2023-12-08T13:05:46.000+05:30"}
 ---
 
 1.  Earlier in your careers its best to embrace the “Junior” title and focus a lot on learning
