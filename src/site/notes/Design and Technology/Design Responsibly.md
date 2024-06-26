@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Design and Technology/Design Responsibly/","noteIcon":"2","created":"2023-12-08T11:48:07.000+04:00","updated":"2023-12-08T11:48:30.000+04:00"}
+{"dg-publish":true,"permalink":"/Design and Technology/Design Responsibly/","noteIcon":"2","created":"2023-12-08T13:18:07.000+05:30","updated":"2023-12-08T13:18:30.000+05:30"}
 ---
 
 
