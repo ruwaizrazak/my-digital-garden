@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Second Brain By Tiago Forte/","noteIcon":"2","created":"2023-05-16T14:31:56.000+04:00","updated":"2023-11-25T10:41:25.000+04:00"}
+{"dg-publish":true,"permalink":"/Readings/Second Brain By Tiago Forte/","noteIcon":"2","created":"2023-05-16T16:01:56.000+05:30","updated":"2023-11-25T12:11:25.000+05:30"}
 ---
 
 Recommends to use a folder structure as 
@@ -14,6 +14,6 @@ Tiago also talks about Progressive Summarization. The structure of the notes is 
 
 > start with something until it breaks. Start simple and as you go along, if it breaks, move to a powerful system.
 
-That being said, why did I moved to [[Obsidian\|Obsidian]]? 
+That being said, why did I moved to [[Seeds/Obsidian\|Obsidian]]? 
 
 #SecondBrain #book
