@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Journal/What is your super power/","noteIcon":"2","created":"2023-05-17T03:28:21.000+04:00","updated":"2024-02-14T20:40:37.683+04:00"}
+{"dg-publish":true,"permalink":"/Journal/What is your super power/","noteIcon":"2","created":"2023-05-17T04:58:21.000+05:30","updated":"2024-02-14T22:10:37.683+05:30"}
 ---
 
 “What is your super power?” This is a question I faced during a conversation I had this week, and I was kind of confused, and I really didn’t know what to reply as well.
